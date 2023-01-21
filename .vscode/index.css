@@ -1,0 +1,45 @@
+.navbar {
+    border-bottom: 5px solid lightcoral;
+}
+
+.navbar a{
+    color: white;
+}
+
+.menu-horizontal  {
+    margin-right: 100px;
+}
+
+.navbar li:hover {
+    text-decoration:overline;
+    text-decoration-color: lightcoral;
+    text-decoration-thickness: 3px;
+}
+
+.logo {
+    height: 35px;
+    
+}
+
+.p-2 {
+    background-color: pink;
+    border-radius: 1px;
+}
+
+.bg-base-100{
+    background-color: white;
+    
+}
+
+.puppyPic {
+    height:550px;
+    width: 100%;    
+    object-fit: cover;
+    object-position: bottom;
+}
+
+
+
+body {
+    background: white;
+}
